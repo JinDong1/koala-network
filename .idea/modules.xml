@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/itcast_koalaNetwork_mapper/itcast_koalaNetwork_mapper.iml" filepath="$PROJECT_DIR$/itcast_koalaNetwork_mapper/itcast_koalaNetwork_mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itcast_koalaNetwork_model/itcast_koalaNetwork_model.iml" filepath="$PROJECT_DIR$/itcast_koalaNetwork_model/itcast_koalaNetwork_model.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itcast_koalaNetwork_service/itcast_koalaNetwork_service.iml" filepath="$PROJECT_DIR$/itcast_koalaNetwork_service/itcast_koalaNetwork_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/itcast_koalaNetwork_web/itcast_koalaNetwork_web.iml" filepath="$PROJECT_DIR$/itcast_koalaNetwork_web/itcast_koalaNetwork_web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/koala.iml" filepath="$PROJECT_DIR$/koala.iml" />
+    </modules>
+  </component>
+</project>
