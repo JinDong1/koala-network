@@ -15,7 +15,7 @@
 		http://www.springframework.org/schema/aop/spring-aop.xsd
            ">
     <!--扫描controller的注解-->
-    <context:component-scan base-package="com.koala.action"></context:component-scan>
+    <context:component-scan base-package="com.koala.controller"></context:component-scan>
     <bean id="internalResourceViewResolver" class="org.springframework.web.servlet.view.InternalResourceViewResolver">
         <property name="prefix" value="/pages/"></property>
         <property name="suffix" value=".jsp"></property>
